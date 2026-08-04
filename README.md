@@ -1,2 +1,2 @@
-# C-Daily-Hacker-rank-Problems
+# CPP-Daily-Hacker-rank-Problems
 CODESPACE
